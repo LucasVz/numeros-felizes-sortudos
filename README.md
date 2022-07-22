@@ -15,4 +15,4 @@ npm i
 node index.js
 ```
 
-4. digite um número
+4. Digite um número
